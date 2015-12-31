@@ -50,7 +50,6 @@ $(function() {
     });
 
 
-    /* Test suite named "The menu" */
     describe('The menu', function() {
         var body, menuIcon;
 
@@ -82,7 +81,7 @@ $(function() {
 
     });
 
-    /* Test suite named "Initial Entries" */
+
     describe('Initial Entries', function() {
 
         beforeEach(function(done) {
@@ -103,7 +102,7 @@ $(function() {
 
     });
 
-    /* Test suite named "New Feed Selection" */
+
     describe('New Feed Selection', function() {
 
         beforeEach(function(done) {
